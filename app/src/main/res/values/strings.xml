@@ -1,3 +1,7 @@
 <resources>
+    <!-- App-Wide Strings -->
     <string name="app_name">Loogle</string>
+
+    <!-- HomeActivity Strings -->
+    <string name="home_new">New Toilet</string>
 </resources>
